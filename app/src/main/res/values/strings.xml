@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">祈歆QQ喵喵助手</string>
+    <string name="accessibility_service_label">祈歆QQ喵喵助手</string>
+    <string name="accessibility_service_description">在 QQ / TIM 的聊天输入框中检测到句号时，自动按你设置的规则替换文本，并在每句句尾添加“喵”。本服务仅在你输入句子结束符时触发。</string>
+    <string name="status_enabled">已启用</string>
+    <string name="status_disabled">未启用</string>
+    <string name="saved">已保存</string>
+</resources>
